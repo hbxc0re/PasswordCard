@@ -1,6 +1,6 @@
 # PasswordCard Android — Auto-Rotating Cryptographic Grid
 
-An offline-first Android application and interactive web edition of [PasswordCard.org](https://www.passwordcard.org/en), built with **Material UI**, styled in high-contrast **OLED Black (`#000000`)** and **Teal typography (`#14B8A6` / `#2DD4BF` / `#5EEAD4`)**, and featuring an automatic **5-minute (300s) cryptographic card rotation timer**.
+An offline-first Android application and interactive web edition of [PasswordCard.org](https://www.passwordcard.org/en), built with **Material UI** and featuring an automatic **5-minute (300s) cryptographic card rotation timer**.
 
 ---
 
