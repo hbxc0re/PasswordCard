@@ -1,0 +1,42 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Production builds
+dist/
+build/
+coverage/
+
+# Environment and sensitive keys
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# OS / Editor metadata
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.antigravity/
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Logs & temp files
+*.log
+.tmp/
+passwordcard.zip
+
+# Android build outputs & local properties
+android/.gradle/
+android/build/
+android/app/build/
+android/capacitor-cordova-android-plugins/build/
+android/local.properties
+android/*.iml
+android/app/*.iml
+android/.idea/
+*.apk.idsig

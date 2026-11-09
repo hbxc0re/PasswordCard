@@ -1,0 +1,8 @@
+{
+  "appId": "org.passwordcard.android",
+  "appName": "PasswordCard Android",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
