@@ -17,6 +17,15 @@ An offline-first Android application and interactive web edition of [PasswordCar
 - **📌 Pinned Coordinate Recipes**: Save favorite coordinate paths (e.g. *Row 3 Red + ♥ Heart, 12 chars*). Pinned recipes automatically track their symbol across 5-minute card rotations.
 - **🎨 Pure OLED Black & Teal Material UI Theme**: Custom Material UI v7 theme optimized for battery saving on AMOLED displays and daylight legibility.
 
+<img width="2214" height="1001" alt="Screenshot_20261109_153605_PasswordCard Android" src="https://github.com/user-attachments/assets/42c55b4d-92c8-42af-9658-70f04c6950e9" />
+<img width="2214" height="1001" alt="Screenshot_20261109_153548_PasswordCard Android" src="https://github.com/user-attachments/assets/bda1606c-8799-4668-84c7-cbd220965f7e" />
+<img width="2214" height="1001" alt="Screenshot_20261109_153535_PasswordCard Android" src="https://github.com/user-attachments/assets/4c9bf237-a1a6-4927-912e-116c9e69402c" />
+<img width="1080" height="2117" alt="Screenshot_20261109_153452_PasswordCard Android" src="https://github.com/user-attachments/assets/598ee3cc-0900-4bf2-a5b1-9e1b4ddace48" />
+<img width="1080" height="2117" alt="Screenshot_20261109_153441_PasswordCard Android" src="https://github.com/user-attachments/assets/663c812f-7da9-4390-9290-b0ca21d0d6e4" />
+<img width="1080" height="2117" alt="Screenshot_20261109_153431_PasswordCard Android" src="https://github.com/user-attachments/assets/9fc59dad-af5b-42a4-a242-6393879cb5ef" />
+<img width="1080" height="2117" alt="Screenshot_20261109_153419_PasswordCard Android" src="https://github.com/user-attachments/assets/4e58ca24-b493-40c6-a0ff-fd4748c3fbe0" />
+<img width="1080" height="2117" alt="Screenshot_20261109_142304_PasswordCard Android" src="https://github.com/user-attachments/assets/7aeb88ae-8a08-4078-8888-a60fac582d52" />
+
 ---
 
 ## 📱 Offline Android APK Installation
